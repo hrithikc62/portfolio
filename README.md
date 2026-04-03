@@ -83,8 +83,6 @@ A project focused on understanding customer purchasing patterns and behavior usi
 # 📬 Contact
 
 * GitHub: https://github.com/hrithikc62
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: hrithikc62@gmail.com
 
----
 
-⭐ If you like my work, feel free to star the repository!
